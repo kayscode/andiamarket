@@ -3,7 +3,7 @@ use the requirements file to install all the dependencies
 
 **run app on port 7070**
 
-flask --app flaskr run --debug
+flask --app flaskr run --debug -p 7070
 
 ---
 
